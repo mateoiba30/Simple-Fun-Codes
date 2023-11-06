@@ -1,9 +1,9 @@
-# Mis programas
 
-Este repositorio contiene las programas realizados por diversion simplemente.
+# My programs
 
-## Carpetas
+This repository contains programs made simply for fun.
 
-- [Juego ahorcado](ahorcados/)
+## Folders
+- [Hangman game](ahorcados/)
 
-- [creador de getters y setters JAVA](getters_setters_creador_java/)
+- [JAVA getters and setters creator](getters_setters_creador_java/)
